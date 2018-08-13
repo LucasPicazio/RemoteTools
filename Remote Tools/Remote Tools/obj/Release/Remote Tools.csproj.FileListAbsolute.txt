@@ -1,0 +1,19 @@
+C:\Users\lpicazio\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Release\WindowsFormsApp6.exe.config
+C:\Users\lpicazio\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Release\WindowsFormsApp6.exe
+C:\Users\lpicazio\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Release\WindowsFormsApp6.pdb
+C:\Users\lpicazio\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Release\yo\WindowsFormsApp6.resources.dll
+C:\Users\lpicazio\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Release\Remote Tools.csprojResolveAssemblyReference.cache
+C:\Users\lpicazio\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Release\WindowsFormsApp6.Form1.resources
+C:\Users\lpicazio\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Release\WindowsFormsApp6.Form2.resources
+C:\Users\lpicazio\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Release\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\lpicazio\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Release\WindowsFormsApp6.Form2.yo.resources
+C:\Users\lpicazio\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Release\Remote Tools.csproj.GenerateResource.Cache
+C:\Users\lpicazio\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Release\Remote Tools.csproj.CoreCompileInputs.cache
+C:\Users\lpicazio\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Release\yo\WindowsFormsApp6.resources.dll
+C:\Users\lpicazio\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Release\WindowsFormsApp6.exe
+C:\Users\lpicazio\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Release\WindowsFormsApp6.pdb
+C:\Users\lpicazio\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Release\WindowsFormsApp6.exe.manifest
+C:\Users\lpicazio\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Release\WindowsFormsApp6.application
+C:\Users\lpicazio\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Release\WindowsFormsApp6.TrustInfo.xml
+C:\Users\lpicazio\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Release\WindowsFormsApp6.exe.manifest
+C:\Users\lpicazio\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Release\WindowsFormsApp6.application
